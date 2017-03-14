@@ -1,0 +1,28 @@
+.idiomas{
+
+    position: absolute;
+    top: 19px;
+    right: 100px;
+    z-index: 21;
+    cursor: pointer;
+    color: rgba(255,255,255,0.21);
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center !important;
+    border: 1px solid rgba(255,255,255,0.41);
+    }
+
+.idiomas select{
+
+    -webkit-appearance:     none;
+    -moz-appearance:        none;
+    -ms-appearance:         none;
+    -o-appearance:          none;
+    appearance:             none;
+    background: transparent;
+    border-radius: none;
+    border: none;
+    color: white;
+
+ }   
